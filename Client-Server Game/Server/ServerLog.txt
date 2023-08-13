@@ -1,0 +1,279 @@
+...Logging started...
+0.0497331: Server Started
+3.8186612: RespondedAwaitingApproval -6838413221262106576 127.0.0.1
+3.8226866: RespondedConnect -6838413221262106576 127.0.0.1
+3.8298036: Connected -6838413221262106576 127.0.0.1
+3.8336604: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartVoIP( 1 )
+
+3.843482: AreaChange -6838413221262106576 127.0.0.1
+5.4744467: RespondedAwaitingApproval 1328612095545470965 127.0.0.1
+5.4764064: RespondedConnect 1328612095545470965 127.0.0.1
+5.4789144: Connected 1328612095545470965 127.0.0.1
+5.4796856: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartVoIP( 2 )
+
+5.4855504: AreaChange 1328612095545470965 127.0.0.1
+6.0686312: RPC ServerOnly NetSyncId: -1 Function: PlayerIsReady(  )
+
+6.9910832: RPC ServerOnly NetSyncId: -1 Function: PlayerIsReady(  )
+
+6.9923639: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseSet( 17 )
+
+6.9933879: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+6.9938438: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: StartRound( 2 )
+
+6.9955611: RPC ServerOnly NetSyncId: -1 Function: PlayerCount(  )
+
+6.9962064: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: GetPlayerCount( 2 )
+
+6.9976767: RPC ServerOnly NetSyncId: -1 Function: PlayerCount(  )
+
+6.9981344: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: GetPlayerCount( 2 )
+
+11.2326647: RPC ServerOnly NetSyncId: -1 Function: NextTurn(  )
+
+11.2335243: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+11.7526176: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+11.7533939: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 8 )
+
+12.5771428: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+12.5777383: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 7 )
+
+14.2562196: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+14.2570554: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 6 )
+
+15.7407274: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+15.7413848: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 10 )
+
+20.1833407: RPC ServerOnly NetSyncId: -1 Function: NextTurn(  )
+
+20.1839567: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+21.5432894: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+21.5438944: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 4 )
+
+21.5466096: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+21.5475182: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+21.54911: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+21.5495396: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+21.5521264: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+21.5527607: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 19 )
+
+21.5532144: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+21.5536556: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 19 )
+
+21.5540958: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+21.5544852: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 19 )
+
+21.5561584: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+21.5567355: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 17 )
+
+22.203764: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+22.204368: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 10 )
+
+33.26058: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+33.2611983: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 9 )
+
+36.3039744: RPC ServerOnly NetSyncId: -1 Function: NextTurn(  )
+
+36.3046064: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+37.345958: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+37.3465668: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 5 )
+
+37.3494144: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+37.3499463: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+37.3521323: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+37.3526382: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+37.3531: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+37.3535642: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 17 )
+
+37.3548624: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+37.3552976: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 14 )
+
+37.3565242: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+37.3569667: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 17 )
+
+37.3595219: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+37.3600211: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 15 )
+
+39.1697159: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+39.1704571: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 2 )
+
+40.1880478: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+40.188644: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 4 )
+
+42.5772142: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+42.5842792: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 4 )
+
+43.1759315: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+43.1766099: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 4 )
+
+43.758153: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+43.7587938: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 2 )
+
+45.4071608: RPC ServerOnly NetSyncId: -1 Function: NextTurn(  )
+
+45.4079275: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+46.5793307: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+46.5799722: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 4 )
+
+46.5825948: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+46.5830988: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+46.5852334: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+46.5857136: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 18 )
+
+46.5874644: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+46.5882074: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+46.5887952: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+46.5893883: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 16 )
+
+46.5908632: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+46.59134: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 16 )
+
+46.5947588: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+46.5953164: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 17 )
+
+47.7610111: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+47.7621284: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 7 )
+
+49.122581: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+49.1233768: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 9 )
+
+49.6820191: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+49.6826551: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 8 )
+
+50.9256079: RPC ServerOnly NetSyncId: -1 Function: NextTurn(  )
+
+50.9263756: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+51.9463499: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+51.9469368: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 5 )
+
+51.95048: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+51.9510358: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+51.9525267: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+51.9529599: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+51.9542323: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+51.9546767: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 14 )
+
+51.9559792: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+51.9564203: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 15 )
+
+51.9579288: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+51.95841: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 17 )
+
+51.9588707: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+51.9593032: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 14 )
+
+53.6128224: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+53.6134575: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 2 )
+
+55.2135304: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+55.2141602: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 10 )
+
+56.8320775: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+56.832674: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 1, 8 )
+
+58.575586: RPC ServerOnly NetSyncId: -1 Function: NextTurn(  )
+
+58.5761987: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartTurn(  )
+
+59.7752692: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+59.7758607: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 7 )
+
+59.7793828: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+59.7798788: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+59.7812779: RPC ServerOnly NetSyncId: -1 Function: Reset(  )
+
+59.7817514: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: RestartGame(  )
+
+59.7830338: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+59.7834564: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 16 )
+
+59.7865: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+59.7871248: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 15 )
+
+59.788592: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+59.7890512: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 19 )
+
+59.7895088: RPC ServerOnly NetSyncId: -1 Function: HouseReset(  )
+
+59.78993: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: HouseReset( 17 )
+
+62.7395003: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+62.7402988: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 10 )
+
+63.8006376: RPC ServerOnly NetSyncId: -1 Function: Hit(  )
+
+63.801235: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Addpoints( 2, 7 )
+
+65.4321132: Disconnected 1328612095545470965 127.0.0.1
+65.4328518: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: VoiceClientDisconnected(  )
+
+67.0574986: Disconnected -6838413221262106576 127.0.0.1
+67.0581088: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: VoiceClientDisconnected(  )
+
+68.3890176: Server shutdown
