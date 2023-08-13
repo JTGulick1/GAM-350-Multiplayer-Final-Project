@@ -1,0 +1,32 @@
+...Logging started...
+0.0538215: Server Started
+4.1914348: RespondedAwaitingApproval 5779419888961924097 127.0.0.1
+4.196128: RespondedConnect 5779419888961924097 127.0.0.1
+4.2003054: Connected 5779419888961924097 127.0.0.1
+4.2038873: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: StartVoIP( 1 )
+
+4.2110457: RPC ServerOnly NetSyncId: -1 Function: GetPlayerID(  )
+
+4.2127486: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: RecieveID( 1 )
+
+4.2133526: AreaChange 5779419888961924097 127.0.0.1
+4.7833132: RPC ServerOnly NetSyncId: -1 Function: PlayerIsReady(  )
+
+4.7846692: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: GameStart(  )
+
+4.7863072: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: RoleAssigment( 2 )
+
+4.7869833: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: TimerCountdown( 5 )
+
+9.7918207: RPC ServerOnly NetSyncId: -1 Function: TimeChange( False )
+
+9.793126: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: Day(  )
+
+9.7937956: => Outgoing RPC Sent to: AllClients as SingleClient NetSyncId: -1 Function: TimerCountdown( 60 )
+
+11.7295389: RPC ServerOnly NetSyncId: -1 Function: VoteCast( 7 )
+
+30.3348914: Disconnected 5779419888961924097 127.0.0.1
+30.3357942: => Outgoing RPC Sent to: SingleClient as SingleClient NetSyncId: -1 Function: VoiceClientDisconnected(  )
+
+32.5107811: Server shutdown
